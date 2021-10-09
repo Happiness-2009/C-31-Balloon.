@@ -66,5 +66,5 @@ function readHeight(data){
 
 function showError(){
   console.log("Error in writing to the database");
-}
+} 
 
